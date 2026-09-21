@@ -20,7 +20,7 @@ An AI-powered image-to-text extraction system that uses Optical Character Recogn
 * NumPy
 
 📂 Project Structure
-``
+```
 Image-to-Text-Inference/
 │
 ├── data/
@@ -35,7 +35,7 @@ Image-to-Text-Inference/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-``
+```
 ⚙️ Installation
 
 Navigate to the project directory:
@@ -59,6 +59,7 @@ python src/main.py
 The extracted text will be displayed and can be stored in the output directory.
 
 🔄 Workflow
+```
 
 Input Image
      ↓
@@ -71,7 +72,7 @@ Text Recognition
 Extracted Text
      ↓
 Output
-
+```
 📊 Evaluation
 
 The system can be evaluated using OCR metrics such as:
@@ -99,3 +100,9 @@ Image preprocessing techniques are applied to improve recognition quality, parti
 * Batch image processing
 * Web-based interface using Streamlit
 * Improved OCR accuracy using advanced vision-language models
+
+👨‍💻 Author
+
+Nithiyanandan N
+
+B.Tech – Artificial Intelligence & Data Science
